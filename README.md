@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Brendan @AtlasDisease
+- 👀 I’m interested in Python and Operating Systems
+- 🌱 I’m currently learning C++
+- 📫 How to reach me beard.brendan@gmail.com
