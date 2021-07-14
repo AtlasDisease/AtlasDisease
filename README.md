@@ -1,3 +1,3 @@
 - I’m Brendan @AtlasDisease
 - I’m interested in Python and Operating Systems
-- I’m currently learning C++
+- I’m currently learning C++ in college
