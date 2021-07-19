@@ -1,4 +1,4 @@
 - I’m Brendan @AtlasDisease
 - I’m interested in Python and Operating Systems
 - I’m currently learning C++ in college
-- My website is atlascorporations.myportfolio.com
+- My website is https://atlascorporations.myportfolio.com
