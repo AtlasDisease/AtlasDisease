@@ -1,5 +1,5 @@
 - I’m Brendan @AtlasDisease
-- I’m interested in Python and Operating Systems
-- I’m currently learning C++ in college
+- I’m interested in Python, Rust, C#, and Operating Systems
+- I’m currently working in C#
 - My website is https://ariestechnologies.github.io
 - Most of my repos are under the AriesTechnologies organization on Github.
